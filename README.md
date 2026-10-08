@@ -12,5 +12,6 @@ git commit -m "Prečo"
  git pull ... zisti a stiahni zmeny k sebe, ak nastali na webe
 
  terminal
- 
+ďalšia zmena
+
 
