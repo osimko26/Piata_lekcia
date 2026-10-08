@@ -13,5 +13,6 @@ git commit -m "Prečo"
 
  terminal
 ďalšia zmena
+aa
 
 
