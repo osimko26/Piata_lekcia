@@ -11,4 +11,6 @@ git commit -m "Prečo"
  píš kód -> Ctrl+S -> git add . -> git commit -m "Poznamka" -> git push -> git pull
  git pull ... zisti a stiahni zmeny k sebe, ak nastali na webe
 
+ terminal
  
+
